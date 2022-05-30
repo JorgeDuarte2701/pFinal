@@ -1,0 +1,31 @@
+﻿  Mysql.cpp
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Cliente.h(122,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(98,14): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(98,14): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(165,14): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(165,14): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(224,15): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(224,15): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(267,14): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(267,14): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(322,14): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(322,14): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(380,14): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(380,14): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(439,14): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(439,14): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(492,14): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(492,14): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(539,14): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'char *'
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(539,14): message : considere el uso de ' %hhd' en la cadena de formato
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(41,6): warning C4101: 'id_venta': variable local sin referencia
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(63,8): warning C4101: 'mini': variable local sin referencia
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(257,9): warning C4101: 'res4': variable local sin referencia
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(88,9): warning C4101: 'res1': variable local sin referencia
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(154,9): warning C4101: 'res2': variable local sin referencia
+C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\Mysql\Mysql.cpp(214,9): warning C4101: 'res3': variable local sin referencia
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 161 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Mysql.vcxproj -> C:\Users\joedd\Documents\visual\proyectos c++\Final\Mysql\x64\Release\Mysql.exe
